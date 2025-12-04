@@ -1,0 +1,14 @@
+package Demo1;
+
+import org.testng.annotations.Test;
+
+public class DemoTest {
+	
+	@Test(groups = "regression")
+	
+	public void Virat()
+	{
+		System.out.println("Virat");
+	}
+
+}
