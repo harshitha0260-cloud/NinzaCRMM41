@@ -9,6 +9,7 @@ public class DemoTest {
 	public void Virat()
 	{
 		System.out.println("Virat");
+		System.out.println("Rohit");
 	}
 
 }

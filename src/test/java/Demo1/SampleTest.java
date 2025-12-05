@@ -9,6 +9,7 @@ public class SampleTest {
 	public void Dhoni()
 	{
 		System.out.println("Dhoni");
+		System.out.println("jaddu");
 	}
 
 }
