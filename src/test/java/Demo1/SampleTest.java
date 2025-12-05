@@ -10,6 +10,8 @@ public class SampleTest {
 	{
 		System.out.println("Dhoni");
 		System.out.println("jaddu");
+		System.out.println("Bigili");
+		System.out.println("jinisha");
 	}
 
 }
