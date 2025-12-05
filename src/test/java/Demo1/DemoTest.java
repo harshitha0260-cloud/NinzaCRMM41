@@ -10,6 +10,7 @@ public class DemoTest {
 	{
 		System.out.println("Virat");
 		System.out.println("Rohit");
+		System.out.println("sachin");
 	}
 
 }
